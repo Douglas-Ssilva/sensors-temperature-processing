@@ -1,2 +1,1 @@
-# sensors-temperature-processing
-Sistema de controle de temperatura
+# ems-algasensors-temperature-processing
